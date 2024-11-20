@@ -5,7 +5,7 @@ Multi-Semantic Guided Prototype Learning for Cross-Modal Few-Shot Apple Leaf Dis
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`python = 3.8.8`
+`python = 3.11.5`
 
 `torch == 2.1.2+cu121`
 
